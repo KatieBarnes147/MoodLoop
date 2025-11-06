@@ -18,3 +18,5 @@ MoodLoop is a fun, interactive web tool that analyzes the “mood” of a song (
 1. Clone the repo:  
    ```bash
    git clone https://github.com/KatieBarnes147/MoodLoop.git
+## Demo
+[Live Demo on GitHub Pages](https://KatieBarnes147.github.io/MoodLoop/)
